@@ -1,0 +1,6 @@
+.nav-folder-title[data-path='_layouts'] {
+    display: none;
+   }
+.nav-folder-title[data-path='_site'] {
+display: none;
+}

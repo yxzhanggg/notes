@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "f24ae1b996c87f31",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ab9413c371c7da4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "364dd207b772643a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "finance/quant.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce7f3696620675fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "3002d74217d77a4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fbee6eed80efeb0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "574ca0c80dcaa38f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4e327bdd1a87623f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "79daf7ba5130208a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ceb57056c3ab0c55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ee62a8a99347ec0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "finance/quant.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b3d6727ef59a4c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "finance/quant.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3bb99c80191941c0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ddf07e198ce73ae0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "finance/quant.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "364dd207b772643a",
+  "lastOpenFiles": [
+    "_site/finance/quant.html",
+    "_site/finance/2024-07-05-dsdl.html",
+    "_site/about/index.html",
+    "_site/index.html",
+    "_site/finance",
+    "_site/about",
+    "_site/404.html",
+    "_site",
+    "Gemfile.lock",
+    "Gemfile",
+    "Gemfile 17-33-29-767",
+    "math/2024-07-05-welcome-to-jekyll.md",
+    "finance/quant.md",
+    "_site/assets/minima-social-icons.svg",
+    "_pages/math/dsdfgc.md",
+    "_pages/finance/dsdsds.md",
+    "_pages/math/2024-07-05-welcome-to-jekyll.md",
+    "_pages/finance/2024-07-05-dsdl.md",
+    "_posts copy/math/2024-07-05-welcome-to-jekyll.md",
+    "_posts copy/finance/2024-07-05-dsdl.md",
+    "_posts/finance/2024-07-05-dsdl.md",
+    "_posts/math/2024-07-05-welcome-to-jekyll.md",
+    "_posts/finance/sdsds.md",
+    "about.md",
+    "index.md",
+    "modeling/model.md",
+    "modeling/data.md",
+    "math/data.md",
+    "math/model.md",
+    "finance/quant.md",
+    "Pasted image 20240705162505.png",
+    "Pasted image 20240705162510.png",
+    "_includes/mathblog-master/index.md",
+    "_includes/mathblog-master/docs/Signals-Systems/Transformations.md",
+    "_includes/mathblog-master/docs/Signals-Systems/Signals-Systems.md",
+    "_includes/mathblog-master/docs/Signals-Systems/Process Dynamics and Control.md",
+    "_includes/mathblog-master/docs/Signals-Systems/Fundamentals.md",
+    "_includes/mathblog-master/docs/Machine-Learning/SuLearning.md",
+    "_includes/mathblog-master/docs/Machine-Learning/Machine-Learning.md",
+    "_includes/mathblog-master/assets/images/small-image.jpg",
+    "_includes/mathblog-master/assets/images/search.svg",
+    "_includes/mathblog-master/assets/images/large-image.jpg",
+    "_includes/mathblog-master/_site/assets/images/small-image.jpg",
+    "_includes/mathblog-master/_site/assets/images/search.svg",
+    "_includes/mathblog-master/_site/assets/images/large-image.jpg",
+    "assets/images/ironman.png"
+  ]
+}
