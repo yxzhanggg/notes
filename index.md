@@ -2,8 +2,67 @@
 layout: base
 ---
 # The World-handbook Project
- ## Finance
- [quant](finance/quant)
- 中医
- [食材/药材](zhongyi/shicaiyaocai)
+
+## Control
+[State space model](control/state-space-model)
+[Kalman filter](control/kalman-filter)
  
+## Finance
+[quant](finance/quant)
+
+## 中医
+[食材/药材](zhongyi/shicaiyaocai)
+
+## Archived
+- [docs]()
+  - [Convex-Optimization]()
+    - [Convex-Optimization](Convex-Optimization/Convex-Optimization)
+    - [Convex-set](Convex-Optimization/Convex-set)
+  - [Fundamental]()
+    - [Complex-Numbers](Fundamental/Complex-Numbers)
+    - [Fundamentals](Fundamental/Fundamentals)
+    - [Logic](Fundamental/Logic)
+    - [Mechanics](Fundamental/Mechanics)
+    - [Norms](Fundamental/Norms)
+  - [Info-Prob]()
+    - [Com](Info-Prob/Com)
+    - [Info-Pro](Info-Prob/Info-Pro)
+  - [Linear-Algebra]()
+    - [App](Linear-Algebra/App)
+    - [Complex](Linear-Algebra/Complex)
+    - [Eigen](Linear-Algebra/Eigen)
+    - [Fundamentals](Linear-Algebra/Fundamentals)
+    - [Linear-Algebra](Linear-Algebra/Linear-Algebra)
+    - [Num](Linear-Algebra/Num)
+    - [Orthogonality](Linear-Algebra/Orthogonality)
+    - [PS](Linear-Algebra/PS)
+    - [Spaces](Linear-Algebra/Spaces)
+    - [SVD](Linear-Algebra/SVD)
+    - [Transformation](Linear-Algebra/Transformation)
+  - [Machine-Learning]()
+    - [Machine-Learning](Machine-Learning/Machine-Learning)
+    - [SuLearning](Machine-Learning/SuLearning)
+  - [Signals-Systems]()
+    - [Fundamentals](Signals-Systems/Fundamentals)
+    - [pdc](Signals-Systems/pdc.pdf)
+    - [Process Dynamics and Control](Signals-Systems/Process Dynamics and Control)
+    - [Signals-Systems](Signals-Systems/Signals-Systems)
+    - [Transformations](Signals-Systems/Transformations)
+- [CS]()
+  - [2022-08-26-Git-Github](2022-08-26-Git-Github.md)
+  - [2022-08-26-nodejs](2022-08-26-nodejs.md)
+  - [2022-08-30-chromedark](2022-08-30-chromedark.md)
+  - [2022-09-12-Cmake](2022-09-12-Cmake.md)
+  - [2022-09-30-Opencv_Qt](2022-09-30-Opencv_Qt.md)
+  - [2022-10-01-Tesseract](2022-10-01-Tesseract.md)
+  - [2022-10-24-KVM](2022-10-24-KVM.md)
+  - [About](About.md)
+  - [Algorithm](Algorithm.md)
+  - [book](book.md)
+  - [C](C.md)
+  - [C++](C++.md)
+  - [index](CS/index.md)
+  - [OOP](OOP.md)
+  - [README](README.md)
+  - [SQL](SQL.md)
+  - [Unix](Unix.md)

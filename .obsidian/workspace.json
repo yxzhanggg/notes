@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kalman-filter.md",
+                "file": "control/kalman-filter.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,9 +49,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "state-space-model.md",
-                "mode": "source",
-                "source": false
+                "file": "index.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "state-space-model.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "state-space-model.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,12 +162,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "state-space-model.md"
+                "file": "index.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,45 +185,45 @@
   },
   "active": "9f7dd930718f7149",
   "lastOpenFiles": [
-    "kalman-filter.md",
+    "Convex-Optimization/Convex-Optimization.md",
     "index.md",
-    "zhongyi/shicaiyaocai.md",
-    "finance/quant.md",
-    "zhongyi",
-    "state-space-model.md",
-    "_site/finance/quant.html",
-    "_site/finance/2024-07-05-dsdl.html",
-    "_site/about/index.html",
-    "_site/index.html",
-    "_site/finance",
-    "_site/about",
-    "_site/404.html",
-    "_site",
-    "Gemfile.lock",
-    "math/2024-07-05-welcome-to-jekyll.md",
+    "CS/2022-08-26-Git-Github.md",
+    "CS/C++.md",
+    "Signals-Systems/Fundamentals.md",
+    "Signals-Systems/Transformations.md",
+    "Machine-Learning/Machine-Learning.md",
+    "CS/index.md",
+    "CS/book.md",
+    "CS/Unix.md",
+    "CS/SQL.md",
+    "CS/README.md",
+    "CS/OOP.md",
+    "CS/LICENSE",
+    "CS/C.md",
+    "CS/Algorithm.md",
+    "CS/About.md",
+    "CS/2022-10-24-KVM.md",
+    "CS/2022-10-01-Tesseract.md",
+    "CS/2022-09-30-Opencv_Qt.md",
+    "CS/2022-09-12-Cmake.md",
+    "CS/2022-08-30-chromedark.md",
+    "CS/2022-08-26-nodejs.md",
+    "CS",
+    "Linear-Algebra/Eigen.md",
+    "Info-Prob/Com.md",
+    "Info-Prob/Info-Pro.md",
+    "Signals-Systems/pdc.pdf",
+    "Signals-Systems/Signals-Systems.md",
+    "Signals-Systems",
+    "Machine-Learning",
+    "Linear-Algebra",
+    "Info-Prob",
+    "Fundamental",
+    "Convex-Optimization",
+    "control",
     "_site/assets/minima-social-icons.svg",
-    "_pages/math/dsdfgc.md",
-    "_pages/finance/dsdsds.md",
-    "_pages/math/2024-07-05-welcome-to-jekyll.md",
-    "_pages/finance/2024-07-05-dsdl.md",
-    "_posts copy/math/2024-07-05-welcome-to-jekyll.md",
-    "_posts copy/finance/2024-07-05-dsdl.md",
-    "_posts/finance/2024-07-05-dsdl.md",
-    "_posts/math/2024-07-05-welcome-to-jekyll.md",
-    "_posts/finance/sdsds.md",
-    "about.md",
-    "modeling/model.md",
-    "modeling/data.md",
-    "math/data.md",
-    "math/model.md",
     "Pasted image 20240705162505.png",
     "Pasted image 20240705162510.png",
-    "_includes/mathblog-master/index.md",
-    "_includes/mathblog-master/docs/Signals-Systems/Transformations.md",
-    "_includes/mathblog-master/docs/Signals-Systems/Signals-Systems.md",
-    "_includes/mathblog-master/docs/Signals-Systems/Process Dynamics and Control.md",
-    "_includes/mathblog-master/docs/Signals-Systems/Fundamentals.md",
-    "_includes/mathblog-master/docs/Machine-Learning/SuLearning.md",
     "_includes/mathblog-master/assets/images/small-image.jpg",
     "_includes/mathblog-master/assets/images/search.svg",
     "_includes/mathblog-master/assets/images/large-image.jpg",
