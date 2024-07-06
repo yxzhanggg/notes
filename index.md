@@ -1,7 +1,6 @@
 ---
 layout: base
 ---
-# The World-handbook Project
 
 ## Control
 [State space model](control/state-space-model)
@@ -9,6 +8,10 @@ layout: base
  
 ## Finance
 [quant](finance/quant)
+
+## Programming language
+[rust](programming-language/rust)
+[c-series](programming-language/c-series)
 
 ## 中医
 [食材/药材](zhongyi/shicaiyaocai)
@@ -57,8 +60,8 @@ layout: base
 - [About](CS/About)
 - [Algorithm](CS/Algorithm)
 - [book](CS/book)
-- [C](CS/C)
-- [C++](CS/C++)
+- [C](C.md)
+- [c-series](c-series.md)
 - [index](CS/CS/index)
 - [OOP](CS/OOP)
 - [README](CS/README)

@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/2022-08-26-Git-Github.md",
-                "mode": "preview",
-                "source": true
+                "file": "programming-language/rust.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/2022-08-26-Git-Github.md",
+                "file": "programming-language/rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/2022-08-26-Git-Github.md",
+                "file": "programming-language/rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/2022-08-26-Git-Github.md"
+                "file": "programming-language/rust.md"
               }
             }
           }
@@ -148,32 +148,33 @@
   },
   "active": "364dd207b772643a",
   "lastOpenFiles": [
-    "CS/2022-09-12-Cmake.md",
-    "CS/OOP.md",
+    "index.md",
     "2022-10-01.md",
+    "programming-language/rust.md",
+    "programming-language/c-series.md",
+    "Info-Prob/Info-Pro.md",
+    "Info-Prob/Com.md",
+    "CS/2022-08-30-chromedark.md",
     "CS/Tesseract.md",
+    "CS/OOP.md",
+    "CS/book.md",
     "CS/2022-10-24-KVM.md",
+    "programming-language/C.md",
+    "CS/2022-08-26-Git-Github.md",
+    "programming-language",
+    "CS/2022-09-12-Cmake.md",
     "CS/About.md",
     "Convex-Optimization/Convex-Optimization.md",
     "control/kalman-filter.md",
     "control/state-space-model.md",
-    "CS/2022-08-26-Git-Github.md",
     "CS/2022-08-26-nodejs.md",
     "CS/2022-09-30-Opencv_Qt.md",
     "CS/Algorithm.md",
-    "CS/C.md",
-    "CS/2022-08-30-chromedark.md",
-    "index.md",
     "Machine-Learning/Machine-Learning.md",
     "CS/README.md",
     "zhongyi/shicaiyaocai.md",
     "Signals-Systems/Transformations.md",
     "Signals-Systems/Signals-Systems.md",
-    "Signals-Systems/Fundamentals.md",
-    "Machine-Learning/SuLearning.md",
-    "Linear-Algebra/SVD.md",
-    "Linear-Algebra/Transformation.md",
-    "Linear-Algebra/Spaces.md",
     "CS/LICENSE",
     "CS",
     "Signals-Systems/pdc.pdf",
@@ -183,7 +184,6 @@
     "Info-Prob",
     "Fundamental",
     "Convex-Optimization",
-    "control",
     "_site/assets/minima-social-icons.svg",
     "Pasted image 20240705162505.png",
     "Pasted image 20240705162510.png",
