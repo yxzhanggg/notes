@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title: Linear Algebra
 nav_order: 3
 has_children: true

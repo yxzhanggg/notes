@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title: Applications
 parent: Linear Algebra
 nav_order: 8

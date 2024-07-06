@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title: Numerical
 parent: Linear Algebra
 nav_order: 9

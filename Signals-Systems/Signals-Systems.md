@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: base
 title: Signals and Systems
 nav_order: 5
 has_children: true
 permalink: /docs/Signals-Systems
-
 ---
 
 Reference: Oppenheim, Alan V., and A. S. Willsky. *Signals and Systems*. Prentice Hall, 1982. ISBN: 9780138097318.

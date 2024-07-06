@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title: Orthogonality
 parent: Linear Algebra
 nav_order: 3

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title: Transformations
 parent: Signals and Systems
 nav_order: 2

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title: Machine Learning
 nav_order: 7
 has_children: true

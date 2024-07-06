@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title: SVD
 parent: Linear Algebra
 nav_order: 5

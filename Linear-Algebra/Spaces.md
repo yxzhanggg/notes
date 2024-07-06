@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title: Spaces
 parent: Linear Algebra
 nav_order: 2

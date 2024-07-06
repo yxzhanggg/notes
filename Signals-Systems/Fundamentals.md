@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title: Fundamentals
 parent: Signals and Systems
 nav_order: 1

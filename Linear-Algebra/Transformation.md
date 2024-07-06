@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title: Transformation
 parent: Linear Algebra
 nav_order: 6

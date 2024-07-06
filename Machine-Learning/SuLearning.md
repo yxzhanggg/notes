@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title: x
 parent: Machine Learning
 nav_order: 1

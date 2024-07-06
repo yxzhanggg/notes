@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title: Probability & Statistics
 parent: Linear Algebra
 nav_order: 10

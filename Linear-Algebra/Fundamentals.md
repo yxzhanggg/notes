@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title: What is matrix (Ax = b)
 parent: Linear Algebra
 nav_order: 1
