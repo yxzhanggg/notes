@@ -1,7 +1,10 @@
 ---
 layout: base
 ---
-
+## Algorithms
+[a](algorithms/a)
+## Computer system
+[unix](computer-system/OOP)
 ## Control
 [State space model](control/state-space-model)
 [Kalman filter](control/kalman-filter)
@@ -12,6 +15,10 @@ layout: base
 ## Programming language
 [rust](programming-language/rust)
 [c-series](programming-language/c-series)
+[SQL](programming-language/SQL)
+
+## Programming paradigm
+[OOP](programming-paradigm/OOP)
 
 ## 中医
 [食材/药材](zhongyi/shicaiyaocai)
@@ -58,12 +65,12 @@ layout: base
 - [Tesseract](Tesseract.md)
 - [2022-10-24-KVM](CS/2022-10-24-KVM)
 - [About](CS/About)
-- [Algorithm](CS/Algorithm)
+- [a](a.md)
 - [book](CS/book)
 - [C](C.md)
 - [c-series](c-series.md)
 - [index](CS/CS/index)
-- [OOP](CS/OOP)
+- [OOP](OOP.md)
 - [README](CS/README)
-- [SQL](CS/SQL)
-- [Unix](CS/Unix)
+- [SQL](SQL.md)
+- [Unix](Unix.md)

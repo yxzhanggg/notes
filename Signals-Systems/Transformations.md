@@ -1,8 +1,6 @@
 ---
-layout: base
-title: Transformations
-parent: Signals and Systems
-nav_order: 2
+layout: math
+title: Machine Learning
 ---
 
 # Fourier transformation

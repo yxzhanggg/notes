@@ -1,6 +1,6 @@
 ---
 title: /Algorithm
-layout: page
+layout: default
 permalink: /Algorithm/
 ---
 # Loop invariant

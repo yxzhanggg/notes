@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6ab9413c371c7da4",
+        "id": "1b3bcdb2b1f070d3",
         "type": "tabs",
         "children": [
           {
-            "id": "364dd207b772643a",
+            "id": "54aada5c400b7141",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming-language/rust.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming-language/rust.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming-language/rust.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming-language/rust.md"
+                "file": "index.md"
               }
             }
           }
@@ -146,44 +146,44 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "364dd207b772643a",
+  "active": "54aada5c400b7141",
   "lastOpenFiles": [
+    "Convex-Optimization/Convex-set.md",
+    "Convex-Optimization/Convex-Optimization.md",
+    "algorithms/a.md",
+    "CS/Tesseract.md",
+    "CS/README.md",
     "index.md",
-    "2022-10-01.md",
+    "a/asds.md",
+    "a",
+    "programming-paradigm/OOP.md",
+    "algorithm/a.md",
+    "algorithm",
+    "algorithms",
+    "CS/2022-10-24-KVM.md",
+    "CS/About.md",
+    "CS/2022-09-12-Cmake.md",
+    "CS/2022-09-30-Opencv_Qt.md",
+    "finance/quant.md",
+    "computer-system/Unix.md",
+    "computer-system",
+    "Info-Prob/Com.md",
+    "programming-paradigm",
+    "CS/2022-08-30-chromedark.md",
+    "CS/2022-08-26-nodejs.md",
+    "CS/2022-08-26-Git-Github.md",
+    "programming-language/SQL.md",
+    "CS/book.md",
+    "CS/index.md",
     "programming-language/rust.md",
     "programming-language/c-series.md",
+    "2022-10-01.md",
     "Info-Prob/Info-Pro.md",
-    "Info-Prob/Com.md",
-    "CS/2022-08-30-chromedark.md",
-    "CS/Tesseract.md",
-    "CS/OOP.md",
-    "CS/book.md",
-    "CS/2022-10-24-KVM.md",
-    "programming-language/C.md",
-    "CS/2022-08-26-Git-Github.md",
     "programming-language",
-    "CS/2022-09-12-Cmake.md",
-    "CS/About.md",
-    "Convex-Optimization/Convex-Optimization.md",
-    "control/kalman-filter.md",
-    "control/state-space-model.md",
-    "CS/2022-08-26-nodejs.md",
-    "CS/2022-09-30-Opencv_Qt.md",
-    "CS/Algorithm.md",
-    "Machine-Learning/Machine-Learning.md",
-    "CS/README.md",
-    "zhongyi/shicaiyaocai.md",
-    "Signals-Systems/Transformations.md",
-    "Signals-Systems/Signals-Systems.md",
     "CS/LICENSE",
     "CS",
     "Signals-Systems/pdc.pdf",
     "Signals-Systems",
-    "Machine-Learning",
-    "Linear-Algebra",
-    "Info-Prob",
-    "Fundamental",
-    "Convex-Optimization",
     "_site/assets/minima-social-icons.svg",
     "Pasted image 20240705162505.png",
     "Pasted image 20240705162510.png",

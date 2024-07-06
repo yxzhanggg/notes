@@ -1,7 +1,5 @@
 ---
-title: /SQL
-layout: page
-permalink: /SQL/
+layout: default
 ---
 The Stuctural Quary Language(SQL) is based on relational model, so basically it operates on the columns(selecting the attributes) and the rows(filtering the attributes).
 # Paradigm

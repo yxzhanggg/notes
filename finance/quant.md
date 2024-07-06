@@ -1,4 +1,5 @@
 ---
-layout: base
+layout: math
+title: Finance
 ---
 $$\beta$$

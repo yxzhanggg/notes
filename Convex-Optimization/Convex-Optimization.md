@@ -2,7 +2,6 @@
 layout: default
 title: Convex Optimization
 nav_order: 6
-has_children: true
 permalink: /docs/Convex-Optimization
 ---
 

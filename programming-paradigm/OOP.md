@@ -1,7 +1,5 @@
 ---
-title: /OOP
-layout: base
-permalink: /OOP/
+layout: default
 ---
 # Inheritance [IS-A]
 Constructors, destructors, friend functions and overloaded operators cannot be inherited.

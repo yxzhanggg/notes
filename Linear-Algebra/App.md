@@ -1,8 +1,6 @@
 ---
-layout: base
-title: Applications
-parent: Linear Algebra
-nav_order: 8
+layout: math
+title: Linear Algebra
 ---
 
 #### Incidence matrix

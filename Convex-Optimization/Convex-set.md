@@ -1,8 +1,5 @@
 ---
-layout: default
-title: Convex set
-parent: Convex Optimization
-nav_order: 1
+layout: math
 ---
 
 #### affine set
