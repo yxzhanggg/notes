@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Info-Prob/Com.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Info-Prob/Com.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Info-Prob/Com.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Info-Prob/Com.md"
               }
             }
           }
@@ -148,12 +148,17 @@
   },
   "active": "54aada5c400b7141",
   "lastOpenFiles": [
+    "Info-Prob/Com.md",
+    "computer-system/Unix.md",
+    "algorithms/a.md",
+    "index.md",
+    "Signals-Systems/Transformations.md",
+    "zhongyi/shicaiyaocai.md",
+    "2022-10-01.md",
     "Convex-Optimization/Convex-set.md",
     "Convex-Optimization/Convex-Optimization.md",
-    "algorithms/a.md",
     "CS/Tesseract.md",
     "CS/README.md",
-    "index.md",
     "a/asds.md",
     "a",
     "programming-paradigm/OOP.md",
@@ -165,9 +170,7 @@
     "CS/2022-09-12-Cmake.md",
     "CS/2022-09-30-Opencv_Qt.md",
     "finance/quant.md",
-    "computer-system/Unix.md",
     "computer-system",
-    "Info-Prob/Com.md",
     "programming-paradigm",
     "CS/2022-08-30-chromedark.md",
     "CS/2022-08-26-nodejs.md",
@@ -176,9 +179,6 @@
     "CS/book.md",
     "CS/index.md",
     "programming-language/rust.md",
-    "programming-language/c-series.md",
-    "2022-10-01.md",
-    "Info-Prob/Info-Pro.md",
     "programming-language",
     "CS/LICENSE",
     "CS",

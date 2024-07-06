@@ -1,27 +1,27 @@
 ---
-layout: base
+layout: default
 ---
 ## Algorithms
-[a](algorithms/a)
+- [a](algorithms/a)
 ## Computer system
-[unix](computer-system/OOP)
+- [unix](computer-system/OOP)
 ## Control
-[State space model](control/state-space-model)
-[Kalman filter](control/kalman-filter)
+- [State space model](control/state-space-model)
+- [Kalman filter](control/kalman-filter)
  
 ## Finance
-[quant](finance/quant)
+- [quant](finance/quant)
 
 ## Programming language
-[rust](programming-language/rust)
-[c-series](programming-language/c-series)
-[SQL](programming-language/SQL)
+- [rust](programming-language/rust)
+- [c-series](programming-language/c-series)
+- [SQL](programming-language/SQL)
 
 ## Programming paradigm
-[OOP](programming-paradigm/OOP)
+- [OOP](programming-paradigm/OOP)
 
 ## 中医
-[食材/药材](zhongyi/shicaiyaocai)
+- [食材/药材](zhongyi/shicaiyaocai)
 
 ## Archived
 ### Convex-Optimization

@@ -1,6 +1,6 @@
 ---
-title: /UNIX
-layout: page
+layout: default
+title: unix
 permalink: /UNIX/
 ---
 # I/O

@@ -1,7 +1,6 @@
 ---
-title: /Algorithm
 layout: default
-permalink: /Algorithm/
+title: algorithm
 ---
 # Loop invariant
 1. Initialization: It is true prior to the ﬁrst iteration of the loop.
