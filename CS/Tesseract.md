@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  Tesseract and Leptonica
-date:   2022-10-01
+layout: base
+title: Tesseract and Leptonica
+date: 2022-10-01
 ---
 Platform: Ubuntu 22.04
 ```sh

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/C.md",
+                "file": "CS/2022-08-26-Git-Github.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/C.md",
+                "file": "CS/2022-08-26-Git-Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/C.md",
+                "file": "CS/2022-08-26-Git-Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/C.md"
+                "file": "CS/2022-08-26-Git-Github.md"
               }
             }
           }
@@ -148,18 +148,23 @@
   },
   "active": "364dd207b772643a",
   "lastOpenFiles": [
-    "CS/Algorithm.md",
+    "CS/2022-09-12-Cmake.md",
+    "CS/OOP.md",
+    "2022-10-01.md",
+    "CS/Tesseract.md",
     "CS/2022-10-24-KVM.md",
+    "CS/About.md",
+    "Convex-Optimization/Convex-Optimization.md",
+    "control/kalman-filter.md",
+    "control/state-space-model.md",
     "CS/2022-08-26-Git-Github.md",
     "CS/2022-08-26-nodejs.md",
-    "CS/2022-08-30-chromedark.md",
-    "CS/2022-09-12-Cmake.md",
     "CS/2022-09-30-Opencv_Qt.md",
-    "CS/2022-10-01-Tesseract.md",
+    "CS/Algorithm.md",
     "CS/C.md",
+    "CS/2022-08-30-chromedark.md",
     "index.md",
     "Machine-Learning/Machine-Learning.md",
-    "control/kalman-filter.md",
     "CS/README.md",
     "zhongyi/shicaiyaocai.md",
     "Signals-Systems/Transformations.md",
@@ -169,11 +174,6 @@
     "Linear-Algebra/SVD.md",
     "Linear-Algebra/Transformation.md",
     "Linear-Algebra/Spaces.md",
-    "Linear-Algebra/PS.md",
-    "Linear-Algebra/Orthogonality.md",
-    "Linear-Algebra/Num.md",
-    "Linear-Algebra/Linear-Algebra.md",
-    "Linear-Algebra/Fundamentals.md",
     "CS/LICENSE",
     "CS",
     "Signals-Systems/pdc.pdf",

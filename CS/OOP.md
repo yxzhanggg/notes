@@ -1,6 +1,6 @@
 ---
 title: /OOP
-layout: page
+layout: base
 permalink: /OOP/
 ---
 # Inheritance [IS-A]

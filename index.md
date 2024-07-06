@@ -52,7 +52,7 @@ layout: base
 - [2022-08-30-chromedark](CS/2022-08-30-chromedark)
 - [2022-09-12-Cmake](CS/2022-09-12-Cmake)
 - [2022-09-30-Opencv_Qt](CS/2022-09-30-Opencv_Qt)
-- [2022-10-01-Tesseract](CS/2022-10-01-Tesseract)
+- [Tesseract](Tesseract.md)
 - [2022-10-24-KVM](CS/2022-10-24-KVM)
 - [About](CS/About)
 - [Algorithm](CS/Algorithm)
