@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Info-Prob/Com.md",
+                "file": "algorithms/deep-learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Info-Prob/Com.md",
+                "file": "algorithms/deep-learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Info-Prob/Com.md",
+                "file": "algorithms/deep-learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Info-Prob/Com.md"
+                "file": "algorithms/deep-learning.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "54aada5c400b7141",
   "lastOpenFiles": [
+    "index.md",
+    "algorithms/deep-learning.md",
+    "algorithms/a.md",
     "Info-Prob/Com.md",
     "computer-system/Unix.md",
-    "algorithms/a.md",
-    "index.md",
     "Signals-Systems/Transformations.md",
     "zhongyi/shicaiyaocai.md",
     "2022-10-01.md",
@@ -178,7 +179,6 @@
     "programming-language/SQL.md",
     "CS/book.md",
     "CS/index.md",
-    "programming-language/rust.md",
     "programming-language",
     "CS/LICENSE",
     "CS",

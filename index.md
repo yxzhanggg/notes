@@ -3,6 +3,7 @@ layout: default
 ---
 ## Algorithms
 - [a](algorithms/a)
+- [Deep learing](algorithms/deep-learning)
 ## Computer system
 - [unix](computer-system/OOP)
 ## Control
