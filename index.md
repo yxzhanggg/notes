@@ -37,18 +37,8 @@ layout: default
 ### Info-Prob
 - [Com](Info-Prob/Com)
 - [Info-Pro](Info-Prob/Info-Pro)
-### Linear-Algebra
-- [App](Linear-Algebra/App)
-- [Complex](Linear-Algebra/Complex)
-- [Eigen](Linear-Algebra/Eigen)
-- [Fundamentals](Linear-Algebra/Fundamentals)
-- [Linear-Algebra](Linear-Algebra/Linear-Algebra)
-- [Num](Linear-Algebra/Num)
-- [Orthogonality](Linear-Algebra/Orthogonality)
-- [PS](Linear-Algebra/PS)
-- [Spaces](Linear-Algebra/Spaces)
-- [SVD](Linear-Algebra/SVD)
-- [Transformation](Linear-Algebra/Transformation)
+### Linear Algebra y67777777777777777777777777777777777777777777777777777777777777777777777676777
+- [Matrix](linear-algebra/matrix)
 ### Machine-Learning
 - [Machine-Learning](Machine-Learning/Machine-Learning)
 - [SuLearning](Machine-Learning/SuLearning)
