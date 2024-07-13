@@ -37,7 +37,7 @@ layout: default
 ### Info-Prob
 - [Com](Info-Prob/Com)
 - [Info-Pro](Info-Prob/Info-Pro)
-### Linear Algebra y67777777777777777777777777777777777777777777777777777777777777777777777676777
+### Linear Algebra
 - [Matrix](linear-algebra/matrix)
 ### Machine-Learning
 - [Machine-Learning](Machine-Learning/Machine-Learning)
