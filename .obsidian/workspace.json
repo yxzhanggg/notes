@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hardwares/computing-system.md",
+                "file": "hardware/computing-system.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hardwares/computing-system.md",
+                "file": "hardware/computing-system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hardwares/computing-system.md",
+                "file": "hardware/computing-system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hardwares/computing-system.md"
+                "file": "hardware/computing-system.md"
               }
             }
           }
@@ -149,47 +149,47 @@
   },
   "active": "45645bb92b92365e",
   "lastOpenFiles": [
-    "Convex-Optimization/Convex-set.md",
-    "hardwares/computing-system.md",
-    "finance/quant.md",
-    "hardwares",
-    "CS/2022-08-26-nodejs.md",
+    "hardware/memory.md",
+    "hardware/computing-system.md",
     "index.md",
-    "computer-system/Unix.md",
+    "control/Machine-Learning/SuLearning.md",
+    "control/Machine-Learning/Machine-Learning.md",
+    "system",
+    "software",
+    "middleware",
+    "math/Convex-Optimization/Convex-set.md",
+    "finance/quant.md",
+    "hardware",
+    "software/CS/2022-08-26-nodejs.md",
+    "middleware/computer-system/Unix.md",
     "2022-10-01.md",
     "finance/attachments/quant.png",
     "finance/attachments",
     "control/kalman-filter.md",
     "control/state-space-model.md",
-    "algorithms/deep-learning.md",
+    "math/algorithms/deep-learning.md",
     "quant-1.png",
     "quant.png",
     "Pasted image 20240714171456.png",
     "Pasted image 20240714172051.png",
-    "Fundamental/Fundamentals.md",
-    "Fundamental/Logic.md",
-    "algorithms/a.md",
-    "Fundamental/Mechanics.md",
-    "linear-algebra/matrix.md",
-    "Info-Prob/Com.md",
-    "Signals-Systems/Transformations.md",
+    "math/Fundamental/Fundamentals.md",
+    "math/Fundamental/Logic.md",
+    "math/algorithms/a.md",
+    "math/Fundamental/Mechanics.md",
+    "math/matrix.md",
+    "math/Info-Prob/Com.md",
+    "control/Signals-Systems/Transformations.md",
     "zhongyi/shicaiyaocai.md",
-    "Convex-Optimization/Convex-Optimization.md",
-    "CS/Tesseract.md",
+    "math/Convex-Optimization/Convex-Optimization.md",
+    "software/CS/Tesseract.md",
     "CS/README.md",
     "a/asds.md",
     "a",
-    "programming-paradigm/OOP.md",
-    "algorithm/a.md",
+    "software/programming-paradigm/OOP.md",
     "algorithm",
-    "algorithms",
-    "CS/2022-10-24-KVM.md",
-    "CS/About.md",
-    "computer-system",
-    "programming-paradigm",
-    "programming-language",
-    "CS/LICENSE",
-    "CS",
+    "math/algorithms",
+    "middleware/computer-system",
+    "software/programming-paradigm",
     "_site/assets/minima-social-icons.svg",
     "Pasted image 20240705162505.png",
     "Pasted image 20240705162510.png",

@@ -2,8 +2,8 @@
 layout: default
 ---
 ## Algorithms
-- [a](algorithms/a)
-- [Deep learing](algorithms/deep-learning)
+- [a](a.md)
+- [Deep learing](deep-learning.md)
 ## Computer system
 - [unix](computer-system/OOP)
 ## Control
@@ -14,47 +14,47 @@ layout: default
 - [quant](finance/quant)
 
 ## Programming language
-- [rust](programming-language/rust)
-- [c-series](programming-language/c-series)
-- [SQL](programming-language/SQL)
+- [rust](rust.md)
+- [c-series](c-series.md)
+- [SQL](SQL.md)
 
 ## Programming paradigm
-- [OOP](programming-paradigm/OOP)
+- [OOP](OOP.md)
 
 ## 中医
 - [食材/药材](zhongyi/shicaiyaocai)
 
 ## Archived
 ### Convex-Optimization
-- [Convex-Optimization](Convex-Optimization/Convex-Optimization)
-- [Convex-set](Convex-Optimization/Convex-set)
+- [Convex-Optimization](Convex-Optimization.md)
+- [Convex-set](Convex-set.md)
 ### Fundamental
-- [Complex-Numbers](Fundamental/Complex-Numbers)
-- [Fundamentals](Fundamental/Fundamentals)
-- [Logic](Fundamental/Logic)
-- [Mechanics](Fundamental/Mechanics)
-- [Norms](Fundamental/Norms)
+- [Complex-Numbers](Complex-Numbers.md)
+- [Fundamentals](math/Fundamental/Fundamentals.md)
+- [Logic](Logic.md)
+- [Mechanics](Mechanics.md)
+- [Norms](Norms.md)
 ### Info-Prob
-- [Com](Info-Prob/Com)
-- [Info-Pro](Info-Prob/Info-Pro)
+- [Com](Com.md)
+- [Info-Pro](Info-Pro.md)
 ### Linear Algebra
-- [Matrix](linear-algebra/matrix)
+- [Matrix](matrix.md)
 ### Machine-Learning
-- [Machine-Learning](Machine-Learning/Machine-Learning)
-- [SuLearning](Machine-Learning/SuLearning)
+- [Machine-Learning](Machine-Learning.md)
+- [SuLearning](SuLearning.md)
 ### Signals-Systems
-- [Fundamentals](Signals-Systems/Fundamentals)
+- [Fundamentals](control/Signals-Systems/Fundamentals.md)
 - [pdc](Signals-Systems/pdc.pdf)
-- [Signals-Systems](Signals-Systems/Signals-Systems)
-- [Transformations](Signals-Systems/Transformations)
+- [Signals-Systems](Signals-Systems.md)
+- [Transformations](Transformations.md)
 ### CS
 - [2022-08-26-Git-Github](CS/2022-08-26-Git-Github)
-- [2022-08-26-nodejs](CS/2022-08-26-nodejs)
-- [2022-08-30-chromedark](CS/2022-08-30-chromedark)
-- [2022-09-12-Cmake](CS/2022-09-12-Cmake)
-- [2022-09-30-Opencv_Qt](CS/2022-09-30-Opencv_Qt)
+- [2022-08-26-nodejs](2022-08-26-nodejs.md)
+- [2022-08-30-chromedark](2022-08-30-chromedark.md)
+- [2022-09-12-Cmake](2022-09-12-Cmake.md)
+- [2022-09-30-Opencv_Qt](2022-09-30-Opencv_Qt.md)
 - [Tesseract](Tesseract.md)
-- [2022-10-24-KVM](CS/2022-10-24-KVM)
+- [2022-10-24-KVM](2022-10-24-KVM.md)
 - [About](CS/About)
 - [a](a.md)
 - [book](CS/book)
