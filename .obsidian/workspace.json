@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1b3bcdb2b1f070d3",
+        "id": "2ef56daaddca6f85",
         "type": "tabs",
         "children": [
           {
-            "id": "54aada5c400b7141",
+            "id": "6f6cc6e621e18ef5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "algorithms/deep-learning.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -129,12 +129,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,17 +146,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "54aada5c400b7141",
+  "active": "6f6cc6e621e18ef5",
   "lastOpenFiles": [
+    "computer-system/Unix.md",
+    "finance/quant.md",
+    "Fundamental/Fundamentals.md",
+    "Fundamental/Logic.md",
+    "algorithms/deep-learning.md",
     "algorithms/a.md",
     "Fundamental/Mechanics.md",
     "index.md",
     "linear-algebra/matrix.md",
     "control/kalman-filter.md",
     "control/state-space-model.md",
-    "algorithms/deep-learning.md",
     "Info-Prob/Com.md",
-    "computer-system/Unix.md",
     "Signals-Systems/Transformations.md",
     "zhongyi/shicaiyaocai.md",
     "2022-10-01.md",
@@ -174,11 +177,8 @@
     "CS/About.md",
     "CS/2022-09-12-Cmake.md",
     "CS/2022-09-30-Opencv_Qt.md",
-    "finance/quant.md",
     "computer-system",
     "programming-paradigm",
-    "CS/2022-08-30-chromedark.md",
-    "CS/2022-08-26-nodejs.md",
     "programming-language",
     "CS/LICENSE",
     "CS",
