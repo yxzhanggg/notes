@@ -3,5 +3,7 @@
   "userIgnoreFilters": [
     "_layouts/"
   ],
-  "promptDelete": false
+  "promptDelete": false,
+  "attachmentFolderPath": "./attachments",
+  "newFileLocation": "current"
 }

@@ -1,7 +1,5 @@
 ---
 layout: default
-title: unix
-permalink: /UNIX/
 ---
 # I/O
 buffered I/O: store the data in blocks of buffers, then read/write.
