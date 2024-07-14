@@ -1,3 +1,8 @@
+---
+layout: math
+---
+
+
 ```mermaid
 graph LR
     style ReferenceNode fill:#f9f,stroke:#333,stroke-width:2px,stroke-dasharray: 5, 5
