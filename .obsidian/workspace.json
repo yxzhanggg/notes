@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hardware/processor.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hardware/processor.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hardware/processor.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hardware/processor.md"
+                "file": "index.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "45645bb92b92365e",
   "lastOpenFiles": [
-    "hardware/computing-system.md",
     "hardware/processor.md",
+    "hardware/computing-system.md",
     "hardware/memory.md",
     "index.md",
     "control/Machine-Learning/SuLearning.md",
