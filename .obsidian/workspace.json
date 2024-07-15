@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hardware/computing-system.md",
+                "file": "hardware/processor.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hardware/computing-system.md",
+                "file": "hardware/processor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hardware/computing-system.md",
+                "file": "hardware/processor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hardware/computing-system.md"
+                "file": "hardware/processor.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "45645bb92b92365e",
   "lastOpenFiles": [
-    "hardware/memory.md",
     "hardware/computing-system.md",
+    "hardware/processor.md",
+    "hardware/memory.md",
     "index.md",
     "control/Machine-Learning/SuLearning.md",
     "control/Machine-Learning/Machine-Learning.md",
@@ -185,7 +186,6 @@
     "CS/README.md",
     "a/asds.md",
     "a",
-    "software/programming-paradigm/OOP.md",
     "algorithm",
     "math/algorithms",
     "middleware/computer-system",
