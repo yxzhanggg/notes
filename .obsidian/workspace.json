@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "operating-system/memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "operating-system/memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "operating-system/memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "operating-system/memory.md"
               }
             }
           }
@@ -147,12 +147,12 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "45645bb92b92365e",
+  "active": "8fbee6eed80efeb0",
   "lastOpenFiles": [
     "hardware/processor.md",
-    "hardware/computing-system.md",
-    "hardware/memory.md",
+    "operating-system/memory.md",
     "index.md",
+    "hardware/computing-system.md",
     "control/Machine-Learning/SuLearning.md",
     "control/Machine-Learning/Machine-Learning.md",
     "system",
@@ -162,7 +162,7 @@
     "finance/quant.md",
     "hardware",
     "software/CS/2022-08-26-nodejs.md",
-    "middleware/computer-system/Unix.md",
+    "operating-system/Unix.md",
     "2022-10-01.md",
     "finance/attachments/quant.png",
     "finance/attachments",
@@ -188,7 +188,7 @@
     "a",
     "algorithm",
     "math/algorithms",
-    "middleware/computer-system",
+    "operating-system",
     "software/programming-paradigm",
     "_site/assets/minima-social-icons.svg",
     "Pasted image 20240705162505.png",
