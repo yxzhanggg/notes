@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4150c17962db9beb",
+        "id": "bb09605581d5aaf9",
         "type": "tabs",
         "children": [
           {
-            "id": "45645bb92b92365e",
+            "id": "d65255ed7d45dd25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Fundamentals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7bce456409a3833a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "math/linear-algebra/vector.md",
+                "file": "math/linear-algebra/matrix.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 209.5
   },
   "right": {
     "id": "79daf7ba5130208a",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/linear-algebra/vector.md",
+                "file": "math/linear-algebra/matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/linear-algebra/vector.md",
+                "file": "math/linear-algebra/matrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/linear-algebra/vector.md"
+                "file": "math/linear-algebra/matrix.md"
               }
             }
           }
@@ -147,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,18 +148,29 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "7bce456409a3833a",
+  "active": "d65255ed7d45dd25",
   "lastOpenFiles": [
+    "math/linear-algebra/system.md",
+    "index.md",
+    "math/linear-algebra/matrix.md",
     "math/Fundamentals.md",
     "math/linear-algebra/vector.md",
-    "math/linear-algebra",
-    "math/Fundamental/Linear-Algebra.md",
-    "math/Transformation.md",
-    "math/App.md",
-    "math/Complex.md",
     "math/Eigen.md",
+    "math/Complex.md",
+    "math/App.md",
+    "math/SVD.md",
+    "math/Transformation.md",
     "math/Spaces.md",
-    "index.md",
+    "math/Num.md",
+    "math/Orthogonality.md",
+    "math/Fundamental/Linear-Algebra.md",
+    "math/Fundamental/Fundamentals.md",
+    "math/Fundamental/Logic.md",
+    "math/linear-algebra/attachments/Pasted image 20240721202546.png",
+    "math/linear-algebra/attachments/Pasted image 20240721202423.png",
+    "math/linear-algebra/attachments",
+    "math/matrix.md",
+    "math/linear-algebra",
     "operating-system/memory.md",
     "hardware/processor.md",
     "hardware/computing-system.md",
@@ -185,27 +184,17 @@
     "hardware",
     "software/CS/2022-08-26-nodejs.md",
     "operating-system/Unix.md",
-    "2022-10-01.md",
     "finance/attachments/quant.png",
     "finance/attachments",
-    "control/kalman-filter.md",
-    "control/state-space-model.md",
-    "math/algorithms/deep-learning.md",
     "quant-1.png",
     "quant.png",
     "Pasted image 20240714171456.png",
     "Pasted image 20240714172051.png",
-    "math/Fundamental/Fundamentals.md",
-    "math/Fundamental/Logic.md",
-    "math/algorithms/a.md",
     "a",
     "algorithm",
     "math/algorithms",
-    "operating-system",
     "_site/assets/minima-social-icons.svg",
     "Pasted image 20240705162505.png",
-    "Pasted image 20240705162510.png",
-    "_includes/mathblog-master/assets/images/small-image.jpg",
-    "_includes/mathblog-master/assets/images/search.svg"
+    "Pasted image 20240705162510.png"
   ]
 }
