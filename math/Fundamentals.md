@@ -184,7 +184,7 @@ $$\left(A^{-1}\right)_{i j}=\frac{C_{j i}}{\operatorname{det} A} \quad \text { a
 
 $$\text{row}\leftrightarrow\text{column} \quad \left(A^{\mathbf{T}}\right)_{i j}=A_{j i}$$
 
-Mathematical definition: $A^{\mathrm{T}}$ is the matrix that makes these two inner products equal for every $x$ and $y$:
+	Mathematical definition: $A^{\mathrm{T}}$ is the matrix that makes these two inner products equal for every $x$ and $y$:
 
 $$(A x)^{\mathrm{T}} y=x^{\mathrm{T}}\left(A^{\mathrm{T}} y\right) \quad \text { Inner product of } A x \text { with } y=\text { Inner product of } x \text { with } A^{\mathrm{T}} y$$
 

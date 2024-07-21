@@ -5,6 +5,7 @@ layout: default
 >must be learned only to be unlearned again or, more likely, to be corrected.
 >Richard Feynman
 
+Here we publishing domain knowledges, algorithms, ...
 ## Algorithms
 - [a](a.md)
 - [Deep learing](deep-learning.md)
