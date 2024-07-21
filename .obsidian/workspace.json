@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "operating-system/memory.md",
+                "file": "math/linear-algebra.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "operating-system/memory.md",
+                "file": "math/linear-algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "operating-system/memory.md",
+                "file": "math/linear-algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "operating-system/memory.md"
+                "file": "math/linear-algebra.md"
               }
             }
           }
@@ -143,13 +143,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "8fbee6eed80efeb0",
+  "active": "45645bb92b92365e",
   "lastOpenFiles": [
-    "hardware/processor.md",
+    "math/Fundamental/Linear-Algebra.md",
+    "math/linear-algebra.md",
     "operating-system/memory.md",
+    "hardware/processor.md",
     "index.md",
     "hardware/computing-system.md",
     "control/Machine-Learning/SuLearning.md",
@@ -182,8 +185,6 @@
     "zhongyi/shicaiyaocai.md",
     "math/Convex-Optimization/Convex-Optimization.md",
     "software/CS/Tesseract.md",
-    "CS/README.md",
-    "a/asds.md",
     "a",
     "algorithm",
     "math/algorithms",
