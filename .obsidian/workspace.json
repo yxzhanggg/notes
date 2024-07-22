@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "math/linear-algebra/system.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -150,9 +150,9 @@
   },
   "active": "95212bbd3ef7b824",
   "lastOpenFiles": [
+    "math/linear-algebra/vector.md",
     "math/linear-algebra/matrix.md",
     "math/linear-algebra/system.md",
-    "math/linear-algebra/vector.md",
     "math/Fundamental/Complex-Numbers.md",
     "math/Fundamental/Fundamentals.md",
     "index.md",
