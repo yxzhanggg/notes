@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bb09605581d5aaf9",
+        "id": "06bc356ee9020b12",
         "type": "tabs",
         "children": [
           {
-            "id": "d65255ed7d45dd25",
+            "id": "3070045b127b7a25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/linear-algebra/matrix.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/linear-algebra/matrix.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/linear-algebra/matrix.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/linear-algebra/matrix.md"
+                "file": "index.md"
               }
             }
           }
@@ -148,13 +148,13 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "d65255ed7d45dd25",
+  "active": "3070045b127b7a25",
   "lastOpenFiles": [
-    "math/linear-algebra/system.md",
-    "index.md",
-    "math/linear-algebra/matrix.md",
-    "math/Fundamentals.md",
     "math/linear-algebra/vector.md",
+    "math/linear-algebra/system.md",
+    "math/linear-algebra/matrix.md",
+    "index.md",
+    "math/Fundamentals.md",
     "math/Eigen.md",
     "math/Complex.md",
     "math/App.md",

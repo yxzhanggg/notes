@@ -6,6 +6,6 @@ layout: default
 >Richard Feynman
 
 - Linear Algebra
-	- [vector](linear-algebra/vector)
-	- [matrix](linear-algebra/matrix)
-	- [Linear System](linear-algebra/system)
+	- [vector](math/linear-algebra/vector)
+	- [matrix](math/linear-algebra/matrix)
+	- [Linear System](math/linear-algebra/system)
