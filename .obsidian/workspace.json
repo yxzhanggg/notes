@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "06bc356ee9020b12",
+        "id": "254eb53e1059df46",
         "type": "tabs",
         "children": [
           {
-            "id": "3070045b127b7a25",
+            "id": "95212bbd3ef7b824",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
+                "file": "math/linear-algebra/matrix.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "math/linear-algebra/matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "math/linear-algebra/matrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "math/linear-algebra/matrix.md"
               }
             }
           }
@@ -148,11 +148,13 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "3070045b127b7a25",
+  "active": "95212bbd3ef7b824",
   "lastOpenFiles": [
-    "math/linear-algebra/vector.md",
-    "math/linear-algebra/system.md",
     "math/linear-algebra/matrix.md",
+    "math/linear-algebra/system.md",
+    "math/linear-algebra/vector.md",
+    "math/Fundamental/Complex-Numbers.md",
+    "math/Fundamental/Fundamentals.md",
     "index.md",
     "math/Fundamentals.md",
     "math/Eigen.md",
@@ -164,7 +166,6 @@
     "math/Num.md",
     "math/Orthogonality.md",
     "math/Fundamental/Linear-Algebra.md",
-    "math/Fundamental/Fundamentals.md",
     "math/Fundamental/Logic.md",
     "math/linear-algebra/attachments/Pasted image 20240721202546.png",
     "math/linear-algebra/attachments/Pasted image 20240721202423.png",
@@ -183,7 +184,6 @@
     "finance/quant.md",
     "hardware",
     "software/CS/2022-08-26-nodejs.md",
-    "operating-system/Unix.md",
     "finance/attachments/quant.png",
     "finance/attachments",
     "quant-1.png",
