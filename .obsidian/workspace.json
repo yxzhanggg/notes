@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/linear-algebra/system.md",
+                "file": "math/linear-algebra/matrix.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/linear-algebra/system.md",
+                "file": "math/linear-algebra/matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/linear-algebra/system.md",
+                "file": "math/linear-algebra/matrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/linear-algebra/system.md"
+                "file": "math/linear-algebra/matrix.md"
               }
             }
           }
@@ -150,9 +150,9 @@
   },
   "active": "95212bbd3ef7b824",
   "lastOpenFiles": [
+    "math/linear-algebra/system.md",
     "math/linear-algebra/vector.md",
     "math/linear-algebra/matrix.md",
-    "math/linear-algebra/system.md",
     "math/Fundamental/Complex-Numbers.md",
     "math/Fundamental/Fundamentals.md",
     "index.md",
