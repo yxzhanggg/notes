@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/linear-algebra/matrix.md",
+                "file": "math/linear-algebra/system.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/linear-algebra/matrix.md",
+                "file": "math/linear-algebra/system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/linear-algebra/matrix.md",
+                "file": "math/linear-algebra/system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/linear-algebra/matrix.md"
+                "file": "math/linear-algebra/system.md"
               }
             }
           }
