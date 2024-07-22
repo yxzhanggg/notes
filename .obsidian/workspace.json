@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "control/Signals-Systems/Fundamentals.md",
+                "file": "control/discrete-time.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "control/Signals-Systems/Fundamentals.md",
+                "file": "control/discrete-time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "control/Signals-Systems/Fundamentals.md",
+                "file": "control/discrete-time.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "control/Signals-Systems/Fundamentals.md"
+                "file": "control/discrete-time.md"
               }
             }
           }
@@ -163,10 +163,13 @@
   },
   "active": "c17acf9c2c853a86",
   "lastOpenFiles": [
+    "control/kalman-filter.md",
+    "control/state-space-model.md",
+    "index.md",
     "control/Signals-Systems/Fundamentals.md",
+    "control/discrete-time.md",
     "control/Signals-Systems/Transformations.md",
     "control/Signals-Systems/Signals-Systems.md",
-    "control/discrete-time.md",
     "Data/Signal.md",
     "Data",
     "math/Fundamental/Linear-Algebra.md",
@@ -175,7 +178,6 @@
     "math/linear-algebra/vector.md",
     "math/Fundamental/Complex-Numbers.md",
     "math/Fundamental/Fundamentals.md",
-    "index.md",
     "math/Fundamentals.md",
     "math/Eigen.md",
     "math/Complex.md",
@@ -192,8 +194,6 @@
     "math/matrix.md",
     "math/linear-algebra",
     "operating-system/memory.md",
-    "hardware/processor.md",
-    "hardware/computing-system.md",
     "system",
     "software",
     "middleware",

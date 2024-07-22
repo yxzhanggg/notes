@@ -46,5 +46,8 @@ $$
 X\left(e^{j \omega}\right)=\sum_{n=-\infty}^{\infty} x(n) e^{-j n \omega}=\left|X\left(e^{j \omega}\right)\right| e^{j \phi_x(\omega)}
 $$
 
+- Existence requires $x(n)$ abs. summable, unless the (dirac) impulse $u_0(\omega)$ is introduced.
+- If $x(n)$ is real, then $X\left(e^{j \omega}\right)=X^*\left(e^{-j \omega}\right)$ or $\left|X\left(e^{j \omega}\right)\right|=\left|X\left(e^{-j \omega}\right)\right|, \phi_x(\omega)=-\phi_x(-\omega)$.
+- 
 
 
