@@ -85,10 +85,10 @@ $$
 \operatorname{det}(\boldsymbol{A})=\sum_{i=1}^n(-1)^{i+j} a_{i j} \operatorname{det}\left(\boldsymbol{A}_{i j}\right)
 $$
 
-where $$\boldsymbol{A}_{i j}$$ is the matrix obtained by removing the $i$th row and $j$th column from $$\boldsymbol{A}$$.
+where $\boldsymbol{A}_{i j}$ is the matrix obtained by removing the $i$th row and $j$th column from $\boldsymbol{A}$.
 
-For square matrix $$\boldsymbol{A}_{n\times n}$$,  
-if $$\operatorname{det}(\boldsymbol{A}) \neq 0$$, then $$\boldsymbol{A}$$ is invertible/nonsingular.
+For square matrix $\boldsymbol{A}_{n\times n}$,  
+if $\operatorname{det}(\boldsymbol{A}) \neq 0$, then $\boldsymbol{A}$ is invertible/nonsingular.
 
 Properties:
 
@@ -155,4 +155,57 @@ $$
 
 # Hermitian forms
 
+The quadratic form of an $n × n$ Hermitian matrix $\boldsymbol{A}$ is
+$$
+Q_A(x)=\boldsymbol{x}^{\mathrm{H}} \boldsymbol{A} \boldsymbol{x}=\sum_{i=1}^n \sum_{j=1}^n x_i^* a_{i j} x_j
+$$
+
+| Notation                | Name                  | Inequality                                                           |
+| ----------------------- | --------------------- | -------------------------------------------------------------------- |
+| $\boldsymbol{A} > 0$    | Positive definite     | $Q_A(\boldsymbol{x}) > 0, \forall \boldsymbol{x} \neq \mathbf{0}$    |
+| $\boldsymbol{A} \geq 0$ | Positive semidefinite | $Q_A(\boldsymbol{x}) \geq 0, \forall \boldsymbol{x} \neq \mathbf{0}$ |
+| $\boldsymbol{A} < 0$    | Negative definite     | $Q_A(\boldsymbol{x}) < 0, \forall \boldsymbol{x} \neq \mathbf{0}$    |
+| $\mathbf{A} \leq 0$     | Negative semidefinite | $Q_A(\boldsymbol{x}) \leq 0, \forall \boldsymbol{x} \neq \mathbf{0}$ |
+
+For any $n \times n$ matrix $\boldsymbol{A}$ and any $n \times m(m \leq n)$ matrix $\boldsymbol{B}$ with full rank $m$, the definiteness of $\boldsymbol{A}$ and $\boldsymbol{B}^{\mathrm{H}} \boldsymbol{A} \boldsymbol{B}$ are the same.
+
+# Eigenvalues and eigenvectors
+
+For an $n \times n$ matrix $\boldsymbol{A}$ there are $n$ eigenvalues $\lambda_i$ and $n$ eigenvectors $\boldsymbol{v}_i$ satisfying
+
+$$
+\boldsymbol{A} \boldsymbol{v}_i=\lambda_i \boldsymbol{v}_i
+$$
+
+The eigenvalues are the roots of the characteristic polynomial
+
+$$
+p(\lambda)=\operatorname{det}(\boldsymbol{A}-\lambda \boldsymbol{I})
+$$
+
+- The eigenvectors have a scaling ambiguity and are often normalized, $\left\|\boldsymbol{v}_i\right\|=1$.
+- The eigenvectors corresponding to distinct eigenvalues are linearly independent.
+- If $\boldsymbol{A}$ has $\rho(\boldsymbol{A})$, then $\boldsymbol{A}$ has $\rho(\boldsymbol{A})$ nonzero eigenvalues and $n-\rho(\boldsymbol{A})$ zero eigenvalues.
+- For a Hermitian matrix,
+	- the eigenvalues are real;
+	- the eigenvectors are orthonormal;
+	- matrix positive (negative) definite $\Leftrightarrow$ all eigenvalues positive (negative).
+
+# Eigenvalue decomposition
+
+For an $n \times n$ matrix $\boldsymbol{A}$ with a set of $n$ linearly independent eigenvectors we can perform an eigenvalue decomposition of $\boldsymbol{A}$
+
+$$
+A=v \Lambda v^{-1}
+$$
+
+where $\boldsymbol{v}$ contains the eigenvectors and $\boldsymbol{\Lambda}$ is a diagonal matrix holding the eigenvalues.
+
+Since for a Hermitian matrix there always exists a set of $n$ orthonormal eigenvectors, the eigenvalue decomposition can be written as
+
+$$
+\boldsymbol{A}=\boldsymbol{v} \boldsymbol{\Lambda} \boldsymbol{v}^{\mathrm{H}}=\lambda_1 \boldsymbol{v}_1 \boldsymbol{v}_1^{\mathrm{H}}+\lambda_2 \boldsymbol{v}_2 \boldsymbol{v}_2^{\mathrm{H}}+\cdots+\lambda_n \boldsymbol{v}_n \boldsymbol{v}_n^{\mathrm{H}}
+$$
+
+where $\lambda_i$ are the eigenvalues and $\boldsymbol{v}_i$ is a set of orthonormal eigenvectors.
 
