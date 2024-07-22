@@ -3,7 +3,7 @@ layout: math
 title: Machine Learning
 ---
 
-# Transfromations of Independent Variable
+# Transformations of Independent Variable
 
 #### Time Shift
 
