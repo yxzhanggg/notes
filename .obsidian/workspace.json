@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hardware/processor.md",
+                "file": "control/Signals-Systems/Transformations.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hardware/processor.md",
+                "file": "control/Signals-Systems/Transformations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hardware/processor.md",
+                "file": "control/Signals-Systems/Transformations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hardware/processor.md"
+                "file": "control/Signals-Systems/Transformations.md"
               }
             }
           }
@@ -150,27 +150,28 @@
   },
   "active": "25ccd0a9aab37c92",
   "lastOpenFiles": [
+    "control/Signals-Systems/Signals-Systems.md",
     "control/Signals-Systems/Fundamentals.md",
+    "math/Fundamental/Linear-Algebra.md",
+    "math/Fundamental/Fundamentals.md",
+    "math/Fundamental/Complex-Numbers.md",
+    "math/linear-algebra/matrix.md",
+    "math/Transformation.md",
+    "hardware/processor.md",
     "control/discrete-time.md",
     "control/kalman-filter.md",
     "control/state-space-model.md",
     "index.md",
     "control/Signals-Systems/Transformations.md",
-    "control/Signals-Systems/Signals-Systems.md",
     "Data/Signal.md",
     "Data",
-    "math/Fundamental/Linear-Algebra.md",
-    "math/linear-algebra/matrix.md",
     "math/linear-algebra/system.md",
     "math/linear-algebra/vector.md",
-    "math/Fundamental/Complex-Numbers.md",
-    "math/Fundamental/Fundamentals.md",
     "math/Fundamentals.md",
     "math/Eigen.md",
     "math/Complex.md",
     "math/App.md",
     "math/SVD.md",
-    "math/Transformation.md",
     "math/Spaces.md",
     "math/Num.md",
     "math/Orthogonality.md",
@@ -180,7 +181,6 @@
     "math/linear-algebra/attachments",
     "math/matrix.md",
     "math/linear-algebra",
-    "operating-system/memory.md",
     "system",
     "software",
     "middleware",
