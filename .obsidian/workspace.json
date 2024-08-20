@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "control/Signals-Systems/Transformations.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "control/Signals-Systems/Transformations.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "control/Signals-Systems/Transformations.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "control/Signals-Systems/Transformations.md"
+                "file": "index.md"
               }
             }
           }
@@ -139,17 +139,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "oz-clear-unused-images:Clear Unused Images": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "oz-clear-unused-images:Clear Unused Images": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "25ccd0a9aab37c92",
   "lastOpenFiles": [
+    "control/Signals-Systems/Transformations.md",
     "control/Signals-Systems/Signals-Systems.md",
     "control/Signals-Systems/Fundamentals.md",
     "math/Fundamental/Linear-Algebra.md",
@@ -162,7 +163,6 @@
     "control/kalman-filter.md",
     "control/state-space-model.md",
     "index.md",
-    "control/Signals-Systems/Transformations.md",
     "Data/Signal.md",
     "Data",
     "math/linear-algebra/system.md",
