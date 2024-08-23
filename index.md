@@ -12,5 +12,5 @@ layout: default
 	- [Linear System](math/linear-algebra/system)
 
 - 健康
-	- [养生茶]((health/tea)
-	- 
+	- [茶]((health/tea)
+	- [粥]((health/porridge)
