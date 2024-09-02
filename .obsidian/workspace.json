@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Fundamental/Complex-Numbers.md",
+                "file": "health/tianji.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Fundamental/Complex-Numbers.md",
+                "file": "health/tianji.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Fundamental/Complex-Numbers.md",
+                "file": "health/tianji.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Fundamental/Complex-Numbers.md"
+                "file": "health/tianji.md"
               }
             }
           }
@@ -150,6 +150,8 @@
   },
   "active": "ee9e5c886ceb91c7",
   "lastOpenFiles": [
+    "math/Fundamental/Complex-Numbers.md",
+    "health/tianji.md",
     "health/porridge.md",
     "health/tea.md",
     "index.md",
@@ -162,7 +164,6 @@
     "control/Signals-Systems/Fundamentals.md",
     "math/Fundamental/Linear-Algebra.md",
     "math/Fundamental/Fundamentals.md",
-    "math/Fundamental/Complex-Numbers.md",
     "math/linear-algebra/matrix.md",
     "math/Transformation.md",
     "hardware/processor.md",
@@ -178,7 +179,6 @@
     "math/App.md",
     "math/SVD.md",
     "math/Spaces.md",
-    "math/Num.md",
     "math/linear-algebra/attachments/Pasted image 20240721202546.png",
     "math/linear-algebra/attachments/Pasted image 20240721202423.png",
     "math/linear-algebra/attachments",
