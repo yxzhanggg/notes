@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hardware/elements.md",
+                "file": "山/八段錦.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hardware/elements.md",
+                "file": "山/八段錦.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hardware/elements.md",
+                "file": "山/八段錦.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hardware/elements.md"
+                "file": "山/八段錦.md"
               }
             }
           }
@@ -140,23 +140,27 @@
   "left-ribbon": {
     "hiddenItems": {
       "oz-clear-unused-images:Clear Unused Images": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
     }
   },
   "active": "ee9e5c886ceb91c7",
   "lastOpenFiles": [
-    "hardware/fundamental.md",
+    "山/八部金剛長壽功.md",
+    "山/八段錦.md",
+    "software/programming-paradigm/OOP.md",
+    "index.md",
+    "山",
     "hardware/elements.md",
+    "hardware/fundamental.md",
     "health/tianji.md",
     "math/Fundamental/Complex-Numbers.md",
     "health/porridge.md",
     "health/tea.md",
-    "index.md",
     "(health/tea.md",
     "(health",
     "math/linear-algebra/system.md",
@@ -176,9 +180,6 @@
     "math/linear-algebra/vector.md",
     "math/Fundamentals.md",
     "math/Eigen.md",
-    "math/Complex.md",
-    "math/App.md",
-    "math/SVD.md",
     "math/linear-algebra/attachments/Pasted image 20240721202546.png",
     "math/linear-algebra/attachments/Pasted image 20240721202423.png",
     "math/linear-algebra/attachments",
@@ -188,7 +189,6 @@
     "middleware",
     "hardware",
     "finance/attachments/quant.png",
-    "finance/attachments",
     "quant-1.png",
     "quant.png",
     "Pasted image 20240714171456.png",
