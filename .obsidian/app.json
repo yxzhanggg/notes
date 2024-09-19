@@ -6,5 +6,5 @@
   "promptDelete": false,
   "attachmentFolderPath": "./attachments",
   "newFileLocation": "current",
-  "strictLineBreaks": true
+  "strictLineBreaks": false
 }
