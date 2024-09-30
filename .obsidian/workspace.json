@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "music.md",
+                "file": "software/CS/2022-08-26-nodejs.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "music.md",
+                "file": "software/CS/2022-08-26-nodejs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "music.md",
+                "file": "software/CS/2022-08-26-nodejs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "music.md"
+                "file": "software/CS/2022-08-26-nodejs.md"
               }
             }
           }
@@ -160,8 +160,12 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "8fbee6eed80efeb0",
+  "active": "a8754730267e9be6",
   "lastOpenFiles": [
+    "software/CS/2022-08-30-chromedark.md",
+    "software/CS/2022-09-12-Cmake.md",
+    "software/CS/2022-09-30-Opencv_Qt.md",
+    "software/CS/2022-10-24-KVM.md",
     "software/programming-language/Java.md",
     "music.md",
     "index.md",
@@ -187,10 +191,6 @@
     "control/Signals-Systems/Transformations.md",
     "control/Signals-Systems/Signals-Systems.md",
     "control/Signals-Systems/Fundamentals.md",
-    "math/Fundamental/Linear-Algebra.md",
-    "math/Fundamental/Fundamentals.md",
-    "math/linear-algebra/matrix.md",
-    "math/Transformation.md",
     "Data",
     "math/linear-algebra/attachments/Pasted image 20240721202546.png",
     "math/linear-algebra/attachments/Pasted image 20240721202423.png",
