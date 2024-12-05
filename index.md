@@ -1,10 +1,10 @@
 - Writing
-  - [papaer](doc/writing/paper)
+  - [paper](docs/writing/paper)
 - Linear Algebra
-	- [vector](doc/math/linear-algebra/vector)
-	- [matrix](doc/math/linear-algebra/matrix)
-	- [Linear System](doc/math/linear-algebra/system)
+	- [vector](docs/math/linear-algebra/vector)
+	- [matrix](docs/math/linear-algebra/matrix)
+	- [Linear System](docs/math/linear-algebra/system)
 - Engineering
-  - [Embedded System](doc/engineering/embedded-system)
+  - [Embedded System](docs/engineering/embedded-system)
 - 修行
 	- [山](doc/修行/山)
