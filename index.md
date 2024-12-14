@@ -6,5 +6,8 @@
 	- [Linear System](docs/math/linear-algebra/system)
 - Engineering
   - [Embedded System](docs/engineering/embedded-system)
-- 修行
-	- [山](doc/修行/山)
+- Health
+  - exercise
+      - [cardio](docs/health/exercise/cardio)
+      - [strength](docs/health/exercise/strength)
+  - food
