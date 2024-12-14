@@ -11,3 +11,6 @@
       - [cardio](docs/health/exercise/cardio)
       - [strength](docs/health/exercise/strength)
   - food
+
+[Demo](docs/Demo)
+
