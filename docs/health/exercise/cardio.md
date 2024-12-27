@@ -1,8 +1,11 @@
-# 引用
+# 有氧运动
+
+## 引用
 
 > 运动应为“圆”的，而不是“直线”的。（倪海厦）
 
-# 八段锦
+
+## 八段锦
 
 <center>两手托天理三焦</center>
 <center>左右开弓如射雕</center>
@@ -13,9 +16,9 @@
 <center>摇头摆尾去心火</center>
 <center>背后七颠百病消</center>
 
-# 八部金刚长寿功
+## 八部金刚长寿功
 
-## 八部金刚功
+### 八部金刚功
 
 <center>双手插顶利三焦</center>
 <center>手足前后固肾腰</center>
@@ -26,7 +29,10 @@
 <center>凤凰展翅周身力</center>
 <center>两足顿顿饮嗜消</center>
 
-## 八部长寿功
+[八部金刚功上](attachments/cardio/八部金刚功上.pdf)
+[八部金刚功下](attachments/cardio/八部金刚功下.pdf)
+
+### 八部长寿功
 
 <center>窃吃昆仑长生酒</center>
 <center>升降日月任督走</center>
@@ -39,7 +45,7 @@
 
 [八部长寿功](attachments/cardio/八部长寿功.pdf)
 
-## 链接
+### 链接
 
 - [茅山乾元观](http://msqyg.com)
 - [八部金刚长寿功](http://msqyg.com/list.asp?cid=1087)
