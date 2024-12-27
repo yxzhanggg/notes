@@ -37,8 +37,9 @@
 <center>白鹤踏波定神思</center>
 <center>鱼沉海底寿命长</center>
 
+[八部长寿功](attachments/cardio/八部长寿功.pdf)
+
 ## 链接
 
 - [茅山乾元观](http://msqyg.com)
 - [八部金刚长寿功](http://msqyg.com/list.asp?cid=1087)
-
