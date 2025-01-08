@@ -1,3 +1,7 @@
+# World-handbook
+
+The ambition of the World-handbook project is to collect and integrate basic, mature knowledge from around the world to create an authentic and easy reference.
+
 ### Writing
 - [Paper](docs/writing/paper)
 
@@ -11,18 +15,21 @@
 
 ---
 
+### Physics
+
+
 ### Engineering
 - [Embedded System](docs/engineering/embedded-system)
 
 ---
 
-### 健康
-#### 运动
-- [有氧运动](docs/health/exercise/cardio)
-- [无氧运动](docs/health/exercise/strength)
+### Health
+#### Fitness
+- [cardio](docs/health/exercise/cardio)
+- [strength](docs/health/exercise/strength)
 
-#### 吃喝
-- [营养](docs/health/eat/nutrition.md)
+#### Diet
+- [nutrition](docs/health/eat/nutrition.md)
 
 ---
 
