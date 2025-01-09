@@ -1,4 +1,4 @@
-# World-handbook
+# World handbook
 
 The ambition of the World-handbook project is to collect and integrate basic, mature knowledge from around the world to create an authentic and easy reference.
 
