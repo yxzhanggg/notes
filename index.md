@@ -1,6 +1,6 @@
 # World handbook
 
-The ambition of the World-handbook project is to collect and integrate basic, mature knowledge from around the world to create an authentic and easy reference.
+The ambition of the World-handbook project is to collect and integrate basic, mature knowledge from around the world to create an authentic and easy reference. This is not the detailed defitions of everything, but connections, understanding, of substances.
 
 ### Writing
 - [Paper](docs/writing/paper)
