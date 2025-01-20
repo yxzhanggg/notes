@@ -1,3 +1,6 @@
+---
+layout: math
+---
 # Time
 
 $10^{-12}$ oscillator
