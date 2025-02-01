@@ -1,5 +1,7 @@
 # Vector
 
+Symmetry: A thing is symmetrical if one can subject it to a certain operation and it appears exactlu the same after the operation. (Professor Hermann Weyl)
+
 # Transition
 
 # Rotation
