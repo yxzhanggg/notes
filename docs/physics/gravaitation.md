@@ -18,3 +18,7 @@ Cavendish's experiment
 $$
 G = 6.670\times10^{-11} \text{newton} \cdot \text{m}^2/\text{kg}^2
 $$
+
+## Pseudo force
+
+Pseudo force is the result of mass(inertia); it states that the force is the result of complicated geometry of the world, instead of the the force itself(definition).
