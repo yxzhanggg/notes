@@ -30,6 +30,24 @@ $$
 K.E. = WV^2/2g
 $$
 
+$$
+T = \frac{1}{2}mv^2
+$$
+
+Power [j/s][w]
+$$
+\frac{dT}{dt} = \bold{F}\cdot\bold{v} 
+$$
+
+Theorem: The rate of change of kinetic energy of an object is equal to the power expended by the forces acting on it.
+
+Work (done by the foece on the object) [N·m][j]
+
+$$
+\Delta T = \int^2_1 \bold{F}\cdot d\bold{s}
+$$
+
+
 ### Heat energy (internal motion)
 
 ### Mass energy (sheer exsitance, relativity theory)
