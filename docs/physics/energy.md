@@ -15,6 +15,10 @@ $$
 
 Principle of virtual work: Solve problem in static state by assuming it moves a little.
 
+
+Potential and field are instanciated as potential energy and force, by multiplying the quantity, respectively. Essentially, potential and field are two ways that describing one thing, by scalar and vector, respectively; they are statistical skeleton.
+
+
 ### Gravitational potential energy
 Assumption: not too far from the earth
 
@@ -22,7 +26,56 @@ $$
 \text{Gravitational potential energy for one object} = \text{weight} \times \text{hight}
 $$
 
+potential energy and potential
+
+$$
+U = m\Psi
+$$
+
+Field and potential
+
+$$
+\bold{C} = -\nabla\Psi
+$$
+
+Force and field
+
+$$
+\bold{F} = m\bold{C}
+$$
+
+Force and potential energy
+
+$$
+\bold{F} = -\nabla U
+$$
+
 ### Electrical potential energy
+
+potential energy and potential
+
+$$
+U = q\phi
+$$
+
+Field and potential
+
+$$
+\bold{E} = -\nabla\phi
+$$
+
+
+Electrical force and electrical field
+
+$$
+\bold{F} = q \bold{E}
+$$
+
+Force and potential energy
+
+$$
+\bold{F} = -\nabla U
+$$
 
 ## Kinetic energy (motion)
 
