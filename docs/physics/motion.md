@@ -1,6 +1,6 @@
 # Motion
 
-Inertia: how much effort(force) required to change the state(velocity) of a mass.
+Inertia: how much effort(force) required to change the state(mass, velocity) of a thing.
 
 time: distance <-> velocity <-> accelaration
 

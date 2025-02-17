@@ -105,8 +105,9 @@ $$
 
 ### Mass energy (sheer exsitance, relativity theory)
 
+Total Energy of a substance
 $$
-E = mc^2
+E = mc^2 = m_0c^2 + 1/2m_0v^2 + ...
 $$
 
 ## Electrical energy (charges)

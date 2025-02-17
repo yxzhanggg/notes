@@ -11,5 +11,6 @@ Long time: radioactivity
 
 $$
 (\frac{1}{2})^\frac{t}{T}
+$$
 
 T: half-life
