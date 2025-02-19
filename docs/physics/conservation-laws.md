@@ -24,9 +24,14 @@ Momentum can exsist as a property of a field (equivalence of force in relativity
 
 ### Patterns of momentum conservation
 
-Elastic collision, non-elastic collition
+Elastic collision: only kinetic energy is considered (no other kinds of energy is involved in the conservation system).
+non-elastic collition: kinetic energy could be transformed to other kinds of energy (i.e. potential energy) in the conservation system.
 
 ### Relativity (mechanics)
+
+Light: 
+1. Speed of light is constant in all systems.
+2. Nothing moves faster than speed of light.
 
 law of physics independent of speed of system
 
@@ -105,7 +110,19 @@ $$
 m = \frac{m_0}{\sqrt{1-u^2/c^2}}
 $$
 
+Two observers, A stationary, B moving at speed u in x direction, object a in B system moving at speed v' (observed by B):
 
+If v' only in x direction, speed of a in x direction observed by A is:
+
+$$
+v_x = \frac{u+v'}{1+u'v'/c^2}
+$$
+
+If v' only in y direction, speed of a observed by A is:
+
+$$
+v_y = v'\sqrt{1-u^2/c^2}
+$$
 
 
 ### Linear momentum
