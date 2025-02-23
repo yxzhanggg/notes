@@ -24,8 +24,9 @@ Momentum can exsist as a property of a field (equivalence of force in relativity
 
 ### Patterns of momentum conservation
 
-Elastic collision: only kinetic energy is considered (no other kinds of energy is involved in the conservation system).
-non-elastic collition: kinetic energy could be transformed to other kinds of energy (i.e. potential energy) in the conservation system.
+[momentum conservation] Elastic collision: only kinetic energy is considered (no other kinds of energy is involved in the conservation system).
+
+[energy conservation] non-elastic collition: kinetic energy could be transformed to other kinds of energy (i.e. potential energy) in the conservation system.
 
 ### Relativity (mechanics)
 
@@ -93,6 +94,24 @@ $$
 t' = \frac{t-ux/c^2}{\sqrt{1-u^2/c^2}}
 $$
 
+Four-vector momentum (E=m)
+
+$$
+p'_x = \frac{p_x-uE}{\sqrt{1-u^2}}
+$$
+
+$$
+p'_y = p_y
+$$
+
+$$
+p'_z = p_z
+$$
+
+$$
+E' = \frac{E-up_x}{\sqrt{1-u^2}}
+$$
+
 "rotation" analogy
 $$
 x'^2 + y'^2 + z'^2 - ct'^2 = x^2 + y^2 + z^2 - ct^2
@@ -124,6 +143,23 @@ $$
 v_y = v'\sqrt{1-u^2/c^2}
 $$
 
+
+#### Space-time
+
+Distance
+
+$$
+d = \sqrt{x^2+y^2+z^2}
+$$
+
+Interval
+$$
+I = \sqrt{ct^2-x^2-y^2-z^2}
+$$
+
+Space-like interval if I is imaginary
+
+Time-like interval if I is real
 
 ### Linear momentum
 
