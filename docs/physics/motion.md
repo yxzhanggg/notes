@@ -23,3 +23,14 @@ External force
 
 $$
 \bold{F} = M(d^2\bold{R}/dt^2)
+$$
+
+# counterpart
+
+mass | moment of inertia
+
+velocity | angular velocity
+
+force | torque / moment of force
+
+momentum | angular momentum
